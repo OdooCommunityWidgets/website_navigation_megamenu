@@ -22,3 +22,8 @@ TODO (master):
   * Use fields from backend in frontend view also.
 * Add compatibility with form-builder
 * Add Login, Signup, Forgot Username, Forgot Password, Signup for Newsletter, etc. Tabbed List
+* IDEAS: 
+  * http://codecanyon.net/item/meganavbar-v-220-advanced-mega-menu-for-bootstrap-30/full_screen_preview/8516895
+  * http://bootsnipp.com/user/snippets/80QE3
+  * http://w3lessons.info/demo/bootstrap-mega-menu/
+  * http://geedmo.github.io/yamm3/
