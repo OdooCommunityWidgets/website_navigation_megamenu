@@ -11,12 +11,22 @@ TODO (master):
 
 * Add functional fields to Settings >> Website Settings > Website Menu (Backend)
   * Add formatting options
-    * Add Html block above menu
-    * Add Html block under menu
-    * Add Column Count
+    * Dropdown type: MegaMenu / Odoo Default
+    * Dropdown layout: List of layout options
+    * Show/Hide Subcategories
+    * Add Html top block
+    * Add Html top block
+    * Add Html bottom block
+    * Add HTML right block
+      * Right block width (% or col count for bootstrap)
+    * Add Column Count (% or col count for bootstrap)
+    * Add custom block #1,2,3, etc. for extra menu options on right - eg. contact form, login, etc.
+    * Add Sidebar menu - eg. vertical layout category roots with subcategory layout in tabs
     * Add Product/CMS Category list widget to allow specific placement in MegaMenu.
       * Add Category label (eg. Sale!)
   * Add CSS class options
+  * Support SVG/JPG/PNG fallback for logo
+  * Add support for sticky menu and large header to minimal header on sticky scrolldown
   * Icons on menu items.
 * Add functional fields to Content >> Edit Menu > Menu Item (Frontend)
   * Use fields from backend in frontend view also.
