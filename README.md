@@ -3,7 +3,7 @@ website_navigation_megamenu
 
 This module will implement MegaMenu functionality to improve on the default built-in Odoo menu for use with both the E-commerce and CMS modules.
 
-<h3>DEMO Frontend:</h3>
+<h3>DEMO Frontend:&nbsp;&nbsp;&nbsp;&nbsp;(Work In Progress // Under Construction)</h3>
 <img src="https://cloud.githubusercontent.com/assets/2337666/5468433/d161d1d0-8609-11e4-8b32-a7fe09a90d8e.png"/>
 
 TODO (master):
