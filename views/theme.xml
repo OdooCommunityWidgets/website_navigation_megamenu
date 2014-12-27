@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+      <template id="website.theme_chd_misc" name="theme_chd_misc" inherit_id="website.theme" priority="1">
+        <xpath expr="//link[last()]" position="after">
+          <link media="screen" href="/website_navigation_megamenu/static/css/yamm3/yamm.css" rel="stylesheet" />
+          <link media="screen" href="/website_navigation_megamenu/static/css/yamm3/yamm.less" rel="stylesheet" />
+        </xpath>
+      </template>
+    </data>
+</openerp>
