@@ -5,6 +5,7 @@
         <xpath expr="//link[last()]" position="after">
           <link media="screen" href="/website_navigation_megamenu/static/css/yamm3/yamm.css" rel="stylesheet" />
           <link media="screen" href="/website_navigation_megamenu/static/css/yamm3/yamm.less" rel="stylesheet" />
+          <link media="screen" href="/website_navigation_megamenu/static/css/website_navigation_megamenu/theme.css" rel="stylesheet" />
         </xpath>
       </template>
     </data>
