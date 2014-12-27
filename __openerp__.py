@@ -8,6 +8,7 @@
     'depends': ['website'],
     'data': [
         'views/theme.xml',
+        'views/layout.xml',
         'views/website_category_extended.xml',
         'views/website_menuitem_extended.xml',
         'views/website_settings_extended.xml',
