@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>
-      
+        <template id="custom_navigation_menuitem_extended" inherit_id="website.menu_tree" name="website_custom_navigation_menuitem_extended" customize_show="true" priority="1">
+            <xpath expr="//tree[@string='Views']" position="replace">
+             <tree string="Views">
+	            <field name="priority" string="Sequence" modifiers="{'required': true}"/>
+            	<field name="name" modifiers="{'required': true}"/>
+            	<field name="type" modifiers="{}"/>
+            	<field name="model" modifiers="{}"/>
+            	<field name="xml_id" modifiers="{'readonly': true}"/>
+            	<field name="inherit_id" modifiers="{}"/>
+             </tree>
+            </xpath>
+        </template>
     </data>
 </openerp>
