@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>
-      <template id="custom_navigation_Genesis" inherit_id="website.layout" name="website_custom_navigation" customize_show="true" priority="1">
+      <template id="custom_navigation_megamenu" inherit_id="website.layout" name="website_custom_navigation" customize_show="true" priority="1">
         <xpath expr="//div[@id='wrapwrap']//header" position="replace">
           <header id="header">
                     <div class="navbar navbar-default navbar-static-top">
